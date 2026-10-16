@@ -74,9 +74,6 @@ ABS(CALCULATE(AVERAGE('df pos final'[ADJ_ratio]),
 + ABS( ... VERB_ratio ... )
 ```
 
-![Pipeline de traitement](images/poetica_pipeline.png)
-*Du scraping au dashboard*
-
 ![Dashboard Power BI](images/poetica_dashboard.png)
 *Dashboard : vue générale*
 
